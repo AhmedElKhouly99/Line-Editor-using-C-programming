@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638370535 source:g:\iti 9-month\c\line_editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MyLibrary.h"
+
+1637743185 g:\iti 9-month\c\line_editor\mylibrary.h
+	<windows.h>
+
